@@ -22,7 +22,7 @@
                         <div class="row">
                             <div class="col-md-10 col-lg-10 col-xl-9 mx-auto">
                                 <div class="card-sigin">
-                                    <div class="mb-5 d-flex"> <img src="{{asset('sales.png')}}" class="sign-favicon ht-40 ml-2" alt="logo"><h1 class="main-logo1 ml-1 mr-0 my-auto tx-28">إيزى <span>لإدارة </span>المبيعات</h1></div>
+                                    <div class="mb-5 d-flex"> <img src="{{asset('sales.png')}}" class="sign-favicon ht-40 ml-2" alt="logo"><h1 class="main-logo1 ml-1 mr-0 mt-2 mr-1 tx-28">ذا بيست <span>لإدارة </span>المبيعات</h1></div>
                                     <div class="card-sigin">
                                         <div class="main-signup-header">
                                             <h2>مرحباً بك</h2>

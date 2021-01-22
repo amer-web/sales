@@ -13,7 +13,7 @@
         }
     </style>
 @endsection
-@section('title', 'إيزي لإدارة المبيعات')
+@section('title', 'ذا بيست لإدارة المبيعات')
 @section('page-header')
     <!-- breadcrumb -->
     <div class="breadcrumb-header justify-content-between">
