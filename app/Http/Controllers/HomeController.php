@@ -7,10 +7,12 @@ use App\Models\Invoice;
 use App\Models\Payments;
 use App\Models\Product;
 use App\Models\SalesRefund;
+use App\Traits\HelperTrait;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
+    use HelperTrait;
     /**
      * Create a new controller instance.
      *
@@ -33,6 +35,7 @@ class HomeController extends Controller
     }
     public function home_page()
     {
+        $this->setStatus();
         $totalSales = BellSale::sum('total') - SalesRefund::sum('total');
         $totalDue =  $totalSales - Payments::whereHas('invoice',function ($q){
             $q->where('type',1);
