@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c6ba5fc-2c97-43ee-a970-aeb239370956" name="Default Changelist" comment="" />
+    <list default="true" id="8c6ba5fc-2c97-43ee-a970-aeb239370956" name="Default Changelist" comment="update blade footer.blade.php">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +39,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -42,7 +67,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
-      <path value="$PROJECT_DIR$/vendor/symfony/string" />
       <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
@@ -56,7 +80,6 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
       <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
@@ -137,6 +160,8 @@
       <path value="$PROJECT_DIR$/vendor/carlos-meneses/laravel-mpdf" />
       <path value="$PROJECT_DIR$/vendor/fx3costa/laravelchartjs" />
       <path value="$PROJECT_DIR$/vendor/nicolaslopezj/searchable" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lNXZNdYYDk29gWr611IEH3Js6B" />
@@ -145,24 +170,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\invoice\app\Models" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\invoices" />
       <recent name="C:\xampp\htdocs\invoice\resources\views\user" />
       <recent name="C:\xampp\htdocs\invoice\resources\views\demos" />
       <recent name="C:\xampp\htdocs\invoice\resources\views\reports\client" />
       <recent name="C:\xampp\htdocs\invoice\resources\views\payments" />
-      <recent name="C:\xampp\htdocs\invoice\resources\views\clients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\invoice\app\Models" />
     </key>
   </component>
   <component name="RunManager">
@@ -271,12 +298,79 @@
       <workItem from="1611080387740" duration="2406000" />
       <workItem from="1611134247552" duration="2573000" />
       <workItem from="1611154991603" duration="3650000" />
-      <workItem from="1611161378765" duration="1410000" />
+      <workItem from="1611161378765" duration="1566000" />
+      <workItem from="1611166538359" duration="2178000" />
+      <workItem from="1611218141958" duration="1030000" />
+      <workItem from="1611242409622" duration="641000" />
+      <workItem from="1611259124396" duration="2927000" />
+      <workItem from="1611326728024" duration="5453000" />
+      <workItem from="1611392643353" duration="2955000" />
+      <workItem from="1611413049375" duration="5043000" />
+      <workItem from="1611478253733" duration="1254000" />
+      <workItem from="1611566045820" duration="1747000" />
     </task>
+    <task id="LOCAL؜٠٠٠٠١" summary="update">
+      <created>1611329199907</created>
+      <option name="number" value="LOCAL؜٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠١" />
+      <updated>1611329199907</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٢" summary="update blade">
+      <created>1611329467601</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٢" />
+      <updated>1611329467601</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٣" summary="update blade 2">
+      <created>1611337541943</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٣" />
+      <updated>1611337541943</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٤" summary="update blade 3">
+      <created>1611338955307</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٤" />
+      <updated>1611338955307</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٥" summary="update blade 4">
+      <created>1611393147169</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٥" />
+      <updated>1611393147169</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٦" summary="update blade footer.blade.php">
+      <created>1611478883046</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1611478883046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update blade" />
+    <MESSAGE value="update blade 2" />
+    <MESSAGE value="update blade 3" />
+    <MESSAGE value="update blade 4" />
+    <MESSAGE value="update blade footer.blade.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="update blade footer.blade.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="322" y="242" key="#Composer" timestamp="1607438973517">
@@ -295,10 +389,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="303" y="75" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1024.728@0.0.1024.728" timestamp="1609146446668" />
-    <state x="242" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1610812866363">
+    <state x="242" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611393087185">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="242" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1024.728@0.0.1024.728" timestamp="1610812866363" />
+    <state x="242" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1024.728@0.0.1024.728" timestamp="1611393087185" />
+    <state x="95" y="54" key="DiffContextDialog" timestamp="1611337560419">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="95" y="54" key="DiffContextDialog/0.0.1024.728@0.0.1024.728" timestamp="1611337560419" />
     <state x="322" y="86" key="NewPhpClassDialog" timestamp="1609527644673">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
@@ -311,10 +409,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="13" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1607960248224" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1611135783191">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1611338833198">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1024.728@0.0.1024.728" timestamp="1611135783191" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1024.728@0.0.1024.728" timestamp="1611338833198" />
+    <state x="104" y="96" key="Vcs.Push.Dialog.v2" timestamp="1611478920633">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="104" y="96" key="Vcs.Push.Dialog.v2/0.0.1024.728@0.0.1024.728" timestamp="1611478920633" />
     <state x="219" y="68" width="585" height="592" key="find.popup" timestamp="1608998642021">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
